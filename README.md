@@ -1,3 +1,5 @@
+# The Unsupervised Learning Trick
+
 **Purpose:** Show the unsupervised learning trick on the mnist data using a Random Forest.<!--more-->
 
 The unsupervised learning trick is done by creating a new class in a classification problem using simulated data.
